@@ -1,3 +1,5 @@
 test text for test commit
 
 ADDING MORE TO THE TEXT FILE
+
+Another test line to the test text file test
